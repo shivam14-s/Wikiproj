@@ -1,7 +1,4 @@
-Name: Shivam Shrivastava
-ID No.: 12041400
-
-The .pynb file will take some time to load because its 60mb in size.
+# Wikipedia Article Ordering
 The files new_dataframe , a_bit are temporary files we used during the data extraction
 The webscraping codes are also attached in the zip folder.
 scraping of the data: 
